@@ -6,7 +6,7 @@ Web App created in the **bradtraversy** React Course on Udemy. It searches for G
 
 ### npm install
 
-### npm
+### npm start
 
 Runs the app in the development mode.
 Open http://localhost:3000
